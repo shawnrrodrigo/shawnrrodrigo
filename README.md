@@ -7,4 +7,4 @@
 
 
 ![Top Langs](https://github.com/anuraghazra/github-readme-stats)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Naween-Pasindu&show_icons=true&locale=en" alt="Naween-Pasindu" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shawnrrodrigo&show_icons=true&locale=en" alt="shawnrrordirgo" /></p>
